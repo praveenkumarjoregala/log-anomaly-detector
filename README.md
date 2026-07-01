@@ -1,6 +1,6 @@
 # Auth Log Anomaly Detector
 
-A Python security tool that parses authentication logs and flags suspicious patterns — specifically brute force and credential stuffing attacks — using behavioral analysis.
+A Python security tool that parses authentication logs and flags suspicious patterns  specifically brute force and credential stuffing attacks  using behavioral analysis.
 
 Built to demonstrate practical application of cybersecurity concepts (threat detection, attack pattern recognition) with Python and Pandas.
 
